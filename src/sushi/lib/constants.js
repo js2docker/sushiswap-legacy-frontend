@@ -303,4 +303,18 @@ export const supportedPools = [
     tokenSymbol: 'CRV',
     icon: '🐊',
   },
-]
+  
+{
+    pid: 18,
+    lpAddresses: {
+      1: '0x3da1313ae46132a397d90d95b1424a9a7e3e0fce',
+    },
+    tokenAddresses: {
+      1: '0xD533a949740bb3306d119CC777fa900bA034cd52',
+    },
+    name: 'CRV Crocodile',
+    symbol: 'CRV-ETH UNI-V2 LP',
+    tokenSymbol: 'CRV',
+    icon: '🐊',
+  },
+  ]
